@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>E:\lab1\lab1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\lab1\lab1\lab1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\lab1\lab1\lab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\lab1\lab1\lab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\lab1\lab1\lab1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>97</LINE></Init>
+  <Init_B><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>104</LINE></Init_B>
+  <Init_C><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>109</LINE></Init_C>
+  <Init_CNT><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>114</LINE></Init_CNT>
+  <Start><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>119</LINE></Start>
+  <Read><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>129</LINE></Read>
+  <TABLE><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>157</LINE></TABLE>
+  <Write_A><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>133</LINE></Write_A>
+  <delay_1><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>134</LINE></delay_1>
+  <delay_DK><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>145</LINE></delay_DK>
+  <Key_end><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>136</LINE></Key_end>
+  <delay_2><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>138</LINE></delay_2>
+  <End_prog><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>139</LINE></End_prog>
+  <cycle><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>149</LINE></cycle>
+  <End_deley><FILE>E:\lab1\lab1\lab1.asm</FILE><LINE>153</LINE></End_deley>
+ </LABELS>
+</ASSEMBLER_INFO>
