@@ -32,8 +32,6 @@
  <Watch4>
   <Watches active="0" update="Never"/>
  </Watch4>
- <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="File1.txt" left="0" selected="1" top="0" codecName=""/>
- </Files>
+ <Files/>
  <ARMCrossStudioWindow activeProject="" fileDialogDefaultFilter="*.c" autoConnectTarget="" buildConfiguration="" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="0"/>
 </session>
