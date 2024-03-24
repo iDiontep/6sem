@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Var_buffer><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>44</LINE></Var_buffer>
+  <Init><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>96</LINE></Init>
+  <IN_INT0><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>189</LINE></IN_INT0>
+  <Init_B><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>103</LINE></Init_B>
+  <Init_C><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>108</LINE></Init_C>
+  <Init_D><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>111</LINE></Init_D>
+  <Init_A><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>116</LINE></Init_A>
+  <Start><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>140</LINE></Start>
+  <Display><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>147</LINE></Display>
+  <ex_displ><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>177</LINE></ex_displ>
+  <Out_disp><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>156</LINE></Out_disp>
+  <TABLE><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>181</LINE></TABLE>
+  <Delay_DK><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>251</LINE></Delay_DK>
+  <val_rand><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>216</LINE></val_rand>
+  <digitConvert><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>227</LINE></digitConvert>
+  <Key_end><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>200</LINE></Key_end>
+  <FindHundreds><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>232</LINE></FindHundreds>
+  <FindTens><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>238</LINE></FindTens>
+  <FindOnes><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>244</LINE></FindOnes>
+  <End_deley><FILE>D:\Work\Seminar\Seminar_4\Dynam_indication_DK\Dynam_indication\Dynam_indication.asm</FILE><LINE>255</LINE></End_deley>
+ </LABELS>
+</ASSEMBLER_INFO>

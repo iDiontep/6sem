@@ -1,0 +1,44 @@
+APRO v3.05
+Compiler : C++ Builder 3
+Operating System : Windows NT 6.2 
+Device: COM5
+Time      Type      SubType       Data      OtherData
+--------  --------  ------------  --------  ---------
+0000.003  TrDatChg  Avail         00000001  
+0000.004  TrgHdAlc  Window        001A044A  
+0015.719  Dispatch  WriteCom      00000001  [02]
+0015.719  Dispatch  WriteCom      00000001  [AA]
+0015.719  Dispatch  WriteCom      00000001  U
+0015.719  Dispatch  WriteCom      00000001  [FE]
+0043.681  Dispatch  ReadCom       00000003  [00]U[AA]
+0043.681  Trigger   Avail         00000003  
+0908.790  Dispatch  WriteCom      00000001  [02]
+0908.790  Dispatch  WriteCom      00000001  [C8]
+0908.790  Dispatch  WriteCom      00000001  [C8]
+0908.790  Dispatch  WriteCom      00000001  m
+0910.953  Dispatch  ReadCom       00000003  [00][00][FF]
+0910.953  Trigger   Avail         00000003  
+0920.783  Dispatch  WriteCom      00000001  [03]
+0920.783  Dispatch  WriteCom      00000001  [C8]
+0920.783  Dispatch  WriteCom      00000001  [C8]
+0920.783  Dispatch  WriteCom      00000001  l
+0924.308  Dispatch  ReadCom       00000003  [1C]@[A3]
+0924.308  Trigger   Avail         00000003  
+0943.806  Dispatch  WriteCom      00000001  [03]
+0943.806  Dispatch  WriteCom      00000001  [B4]
+0943.806  Dispatch  WriteCom      00000001  [B4]
+0943.806  Dispatch  WriteCom      00000001  [94]
+0946.045  Dispatch  ReadCom       00000003  ^[90][11]
+0946.045  Trigger   Avail         00000003  
+1070.694  Dispatch  WriteCom      00000001  [03]
+1070.694  Dispatch  WriteCom      00000001  [96]
+1070.694  Dispatch  WriteCom      00000001  [DA]
+1070.694  Dispatch  WriteCom      00000001  [8C]
+1072.226  Dispatch  ReadCom       00000003  [7F][BC][C4]
+1072.226  Trigger   Avail         00000003  
+1098.302  Dispatch  WriteCom      00000001  [03]
+1098.302  Dispatch  WriteCom      00000001  [84]
+1098.302  Dispatch  WriteCom      00000001  [FA]
+1098.302  Dispatch  WriteCom      00000001  ~
+1101.576  Dispatch  ReadCom       00000003  [00][E8][17]
+1101.576  Trigger   Avail         00000003  

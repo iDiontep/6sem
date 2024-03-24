@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>97</LINE></Init>
+  <Init_B><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>104</LINE></Init_B>
+  <Init_C><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>109</LINE></Init_C>
+  <Init_CNT><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>114</LINE></Init_CNT>
+  <Start><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>119</LINE></Start>
+  <Read><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>129</LINE></Read>
+  <TABLE><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>157</LINE></TABLE>
+  <Write_A><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>133</LINE></Write_A>
+  <delay_1><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>134</LINE></delay_1>
+  <delay_DK><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>145</LINE></delay_DK>
+  <Key_end><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>136</LINE></Key_end>
+  <delay_2><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>138</LINE></delay_2>
+  <End_prog><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>139</LINE></End_prog>
+  <cycle><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>149</LINE></cycle>
+  <End_deley><FILE>D:\Ionin\EU\Lab_work_1_AVR_DO\lab1\lab1.asm</FILE><LINE>153</LINE></End_deley>
+ </LABELS>
+</ASSEMBLER_INFO>

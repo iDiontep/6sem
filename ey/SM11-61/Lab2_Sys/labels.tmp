@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\SM11-61\Lab2_Sys</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler\Appnotes</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\SM11-61\Lab2_Sys\reaction.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\SM11-61\Lab2_Sys\reaction.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\SM11-61\Lab2_Sys\reaction.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\SM11-61\Lab2_Sys\reaction.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>116</LINE></Init>
+  <IN_INT0><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>271</LINE></IN_INT0>
+  <IN_T0ovf><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>362</LINE></IN_T0ovf>
+  <Init_B><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>124</LINE></Init_B>
+  <Init_C><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>129</LINE></Init_C>
+  <Init_D><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>132</LINE></Init_D>
+  <Init_T0><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>138</LINE></Init_T0>
+  <Init_R><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>148</LINE></Init_R>
+  <Start><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>160</LINE></Start>
+  <Display><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>204</LINE></Display>
+  <Rand_st><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>166</LINE></Rand_st>
+  <Rand_end><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>178</LINE></Rand_end>
+  <ex_displ><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>244</LINE></ex_displ>
+  <Out_disp><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>215</LINE></Out_disp>
+  <TABLE><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>250</LINE></TABLE>
+  <Cheat><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>324</LINE></Cheat>
+  <shl3><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>292</LINE></shl3>
+  <Divide12><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>301</LINE></Divide12>
+  <DoneDividing><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>310</LINE></DoneDividing>
+  <digitConvert><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>332</LINE></digitConvert>
+  <ex_INT0><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>313</LINE></ex_INT0>
+  <FindHundreds><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>337</LINE></FindHundreds>
+  <FindTens><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>344</LINE></FindTens>
+  <FindOnes><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>350</LINE></FindOnes>
+  <LEDon><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>379</LINE></LEDon>
+  <ex_T0ovf><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>374</LINE></ex_T0ovf>
+  <Start_m><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>370</LINE></Start_m>
+  <out_HI><FILE>D:\SM11-61\Lab2_Sys\reaction.asm</FILE><LINE>383</LINE></out_HI>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "D:\Work\Seminar\Seminar_4\Dynam_indication\labels.tmp" -fI -W+ie -C V2E -o "D:\Work\Seminar\Seminar_4\Dynam_indication\Dynam_indication.hex" -d "D:\Work\Seminar\Seminar_4\Dynam_indication\Dynam_indication.obj" -e "D:\Work\Seminar\Seminar_4\Dynam_indication\Dynam_indication.eep" -m "D:\Work\Seminar\Seminar_4\Dynam_indication\Dynam_indication.map" "D:\Work\Seminar\Seminar_4\Dynam_indication\Dynam_indication.asm"

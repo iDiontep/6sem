@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\SM11-61\lab1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>71</LINE></Init>
+  <Init_B><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>78</LINE></Init_B>
+  <Init_D><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>83</LINE></Init_D>
+  <Init_CNT><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>88</LINE></Init_CNT>
+  <Start><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>93</LINE></Start>
+  <delay_1><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>100</LINE></delay_1>
+  <delay_DK><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>107</LINE></delay_DK>
+  <End_prog><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>101</LINE></End_prog>
+  <cycle><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>110</LINE></cycle>
+  <End_deley><FILE>C:\Users\User\Desktop\SM11-61\lab1\lab1.asm</FILE><LINE>114</LINE></End_deley>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,11 @@
+Receive: 
+[00][00]
+
+Transmit: 
+[01][AA]U[FF]
+
+Receive: 
+[00][FF][00]
+
+Transmit: 
+[01][AA]U[FF]

@@ -1,0 +1,22 @@
+APRO v3.05
+Compiler : C++ Builder 3
+Operating System : Windows NT 5.1 Service Pack 3
+Device: COM7
+Time      Type      SubType       Data      OtherData
+--------  --------  ------------  --------  ---------
+0000.000  TrDatChg  Avail         00000001  
+0000.000  TrgHdAlc  Window        00030138  
+0000.013  Dispatch  ReadCom       00000001  [00]
+0000.013  Trigger   Avail         00000001  
+0000.014  Dispatch  ReadCom       00000001  [00]
+0000.014  Trigger   Avail         00000001  
+0000.022  Dispatch  WriteCom      00000001  [01]
+0000.022  Dispatch  WriteCom      00000001  [AA]
+0000.022  Dispatch  WriteCom      00000001  U
+0000.022  Dispatch  WriteCom      00000001  [FF]
+0000.042  Dispatch  ReadCom       00000003  [00][FF][00]
+0000.042  Trigger   Avail         00000003  
+0000.104  Dispatch  WriteCom      00000001  [01]
+0000.104  Dispatch  WriteCom      00000001  [AA]
+0000.104  Dispatch  WriteCom      00000001  U
+0000.104  Dispatch  WriteCom      00000001  [FF]

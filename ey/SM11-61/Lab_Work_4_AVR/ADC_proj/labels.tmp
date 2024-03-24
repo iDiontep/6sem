@@ -1,0 +1,55 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>D:\SM11-61\Lab_Work_4_AVR\ADC_proj</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>109</LINE></Init>
+  <time_d_k><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>364</LINE></time_d_k>
+  <IN_ADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>333</LINE></IN_ADC>
+  <Start><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>157</LINE></Start>
+  <start_ADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>200</LINE></start_ADC>
+  <wait_ADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>159</LINE></wait_ADC>
+  <Display><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>253</LINE></Display>
+  <out_ADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>215</LINE></out_ADC>
+  <izm_Nkan><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>173</LINE></izm_Nkan>
+  <ch_mux_ADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>184</LINE></ch_mux_ADC>
+  <kanN2><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>195</LINE></kanN2>
+  <ex_c_mux><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>188</LINE></ex_c_mux>
+  <ch_4izm><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>220</LINE></ch_4izm>
+  <sh_ADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>231</LINE></sh_ADC>
+  <ch_2izm><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>224</LINE></ch_2izm>
+  <ch_1izm><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>228</LINE></ch_1izm>
+  <norm_ADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>237</LINE></norm_ADC>
+  <ex_out><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>249</LINE></ex_out>
+  <digitConvert><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>307</LINE></digitConvert>
+  <ex_displ><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>284</LINE></ex_displ>
+  <Out_disp><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>264</LINE></Out_disp>
+  <sym_toch><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>286</LINE></sym_toch>
+  <TABLE><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>291</LINE></TABLE>
+  <out_date><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>274</LINE></out_date>
+  <TABLE1><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>298</LINE></TABLE1>
+  <FindHundreds><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>312</LINE></FindHundreds>
+  <FindTens><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>319</LINE></FindTens>
+  <FindOnes><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>326</LINE></FindOnes>
+  <rd_ADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>338</LINE></rd_ADC>
+  <end_ADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>353</LINE></end_ADC>
+  <ex_INADC><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>347</LINE></ex_INADC>
+  <ex_timDK><FILE>D:\SM11-61\Lab_Work_4_AVR\ADC_proj\ADC_proj.asm</FILE><LINE>381</LINE></ex_timDK>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>E:\Ionin\EU\sem1\sem1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Ionin\EU\sem1\sem1\sem1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Ionin\EU\sem1\sem1\sem1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\Ionin\EU\sem1\sem1\sem1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\Ionin\EU\sem1\sem1\sem1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <varBufer><FILE>E:\Ionin\EU\sem1\sem1\sem1.asm</FILE><LINE>32</LINE></varBufer>
+  <Init><FILE>E:\Ionin\EU\sem1\sem1\sem1.asm</FILE><LINE>45</LINE></Init>
+  <begin><FILE>E:\Ionin\EU\sem1\sem1\sem1.asm</FILE><LINE>49</LINE></begin>
+  <Random_to_SRAM><FILE>E:\Ionin\EU\sem1\sem1\sem1.asm</FILE><LINE>72</LINE></Random_to_SRAM>
+  <val_midl><FILE>E:\Ionin\EU\sem1\sem1\sem1.asm</FILE><LINE>81</LINE></val_midl>
+  <val_rand><FILE>E:\Ionin\EU\sem1\sem1\sem1.asm</FILE><LINE>102</LINE></val_rand>
+  <cyc_v_r><FILE>E:\Ionin\EU\sem1\sem1\sem1.asm</FILE><LINE>85</LINE></cyc_v_r>
+  <cyc_sh_r><FILE>E:\Ionin\EU\sem1\sem1\sem1.asm</FILE><LINE>93</LINE></cyc_sh_r>
+ </LABELS>
+</ASSEMBLER_INFO>

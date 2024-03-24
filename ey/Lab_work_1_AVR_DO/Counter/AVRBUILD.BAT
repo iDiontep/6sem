@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler\avrasm32.exe" -fI -I "C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler\Appnotes" -o "D:\SM61\Lab_work_1_AVR_DO\Counter\Counter.hex" -d "D:\SM61\Lab_work_1_AVR_DO\Counter\Counter.obj" -e "D:\SM61\Lab_work_1_AVR_DO\Counter\Counter.eep" -m "D:\SM61\Lab_work_1_AVR_DO\Counter\Counter.map" -l "D:\SM61\Lab_work_1_AVR_DO\Counter\Counter.lst" "D:\SM61\Lab_work_1_AVR_DO\Counter\Counter.asm"

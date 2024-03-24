@@ -1,0 +1,50 @@
+APRO v3.05
+Compiler : C++ Builder 3
+Operating System : Windows NT 6.1 Service Pack 1
+Device: COM7
+Time      Type      SubType       Data      OtherData
+--------  --------  ------------  --------  ---------
+0000.084  TrDatChg  Avail         00000001  
+0000.090  TrgHdAlc  Window        0025053E  
+0101.407  Dispatch  ReadCom       00000001  [00]
+0101.407  Trigger   Avail         00000001  
+0102.575  Dispatch  ReadCom       00000001  [00]
+0102.575  Trigger   Avail         00000001  
+0135.125  Dispatch  WriteCom      00000001  [01]
+0135.125  Dispatch  WriteCom      00000001  [AA]
+0135.125  Dispatch  WriteCom      00000001  U
+0135.125  Dispatch  WriteCom      00000001  [FF]
+0137.476  Dispatch  WriteCom      00000001  [01]
+0137.476  Dispatch  WriteCom      00000001  [AA]
+0137.476  Dispatch  WriteCom      00000001  U
+0137.476  Dispatch  WriteCom      00000001  [FF]
+0139.487  Dispatch  WriteCom      00000001  [01]
+0139.487  Dispatch  WriteCom      00000001  [AA]
+0139.487  Dispatch  WriteCom      00000001  U
+0139.487  Dispatch  WriteCom      00000001  [FF]
+0142.728  Dispatch  WriteCom      00000001  [01]
+0142.728  Dispatch  WriteCom      00000001  [AA]
+0142.728  Dispatch  WriteCom      00000001  U
+0142.728  Dispatch  WriteCom      00000001  [FF]
+0180.717  Dispatch  ReadCom       00000003  [00][FF][00]
+0180.717  Trigger   Avail         00000003  
+0197.203  Dispatch  WriteCom      00000001  [01]
+0197.203  Dispatch  WriteCom      00000001  [AA]
+0197.203  Dispatch  WriteCom      00000001  U
+0197.203  Dispatch  WriteCom      00000001  [FF]
+0205.092  Dispatch  ReadCom       00000001  [00]
+0205.092  Trigger   Avail         00000001  
+0232.174  Dispatch  ReadCom       00000003  [00][FF][00]
+0232.174  Trigger   Avail         00000003  
+0264.732  Dispatch  WriteCom      00000001  [01]
+0264.732  Dispatch  WriteCom      00000001  [AA]
+0264.732  Dispatch  WriteCom      00000001  U
+0264.732  Dispatch  WriteCom      00000001  [FF]
+0304.269  Dispatch  ReadCom       00000003  [00][FF][00]
+0304.269  Trigger   Avail         00000003  
+0377.253  Dispatch  WriteCom      00000001  [01]
+0377.253  Dispatch  WriteCom      00000001  [AA]
+0377.253  Dispatch  WriteCom      00000001  U
+0377.253  Dispatch  WriteCom      00000001  [FF]
+0459.338  Dispatch  ReadCom       00000003  [00][FF][00]
+0459.338  Trigger   Avail         00000003  
