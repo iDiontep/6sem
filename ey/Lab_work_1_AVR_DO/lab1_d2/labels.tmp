@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\Users\user\Desktop\lab1_defence</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <InitStack><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>84</LINE></InitStack>
+  <Init><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>90</LINE></Init>
+  <MainLoop><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>103</LINE></MainLoop>
+  <CheckCounter><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>114</LINE></CheckCounter>
+  <Delay><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>125</LINE></Delay>
+  <delay_loop><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>127</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
