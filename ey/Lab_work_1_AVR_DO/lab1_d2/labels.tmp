@@ -1,29 +1,41 @@
 <ASSEMBLER_INFO>
  <VERSION>2.1.42</VERSION>
  <DEVICE>ATmega16</DEVICE>
- <WORKING_DIR>C:\Users\user\Desktop\lab1_defence</WORKING_DIR>
+ <WORKING_DIR>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</SOURCE_FILE>
+ <SOURCE_FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.obj</FILE>
+  <FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
-  <FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.hex</FILE>
+  <FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.hex</FILE>
  </HEX_FILES>
  <OUTPUT_FILES>
-  <FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.map</FILE>
+  <FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.map</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <InitStack><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>84</LINE></InitStack>
-  <Init><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>90</LINE></Init>
-  <MainLoop><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>103</LINE></MainLoop>
-  <CheckCounter><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>114</LINE></CheckCounter>
-  <Delay><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>125</LINE></Delay>
-  <delay_loop><FILE>C:\Users\user\Desktop\lab1_defence\lab1_defence.asm</FILE><LINE>127</LINE></delay_loop>
+  <Init><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>82</LINE></Init>
+  <Init_A><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>88</LINE></Init_A>
+  <Init_B><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>93</LINE></Init_B>
+  <MainLoop><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>100</LINE></MainLoop>
+  <CheckCounter><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>111</LINE></CheckCounter>
+  <Read><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>112</LINE></Read>
+  <TABLE><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>150</LINE></TABLE>
+  <Write_A><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>116</LINE></Write_A>
+  <delay_1><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>117</LINE></delay_1>
+  <delay_DK><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>138</LINE></delay_DK>
+  <Key_end><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>119</LINE></Key_end>
+  <delay_2><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>121</LINE></delay_2>
+  <End_prog><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>122</LINE></End_prog>
+  <Delay><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>125</LINE></Delay>
+  <delay_loop><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>130</LINE></delay_loop>
+  <End_delay><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>136</LINE></End_delay>
+  <cycle><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>142</LINE></cycle>
+  <End_delay_DK><FILE>C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm</FILE><LINE>146</LINE></End_delay_DK>
  </LABELS>
 </ASSEMBLER_INFO>

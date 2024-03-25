@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.42  C:\Users\user\Desktop\lab1_defence\lab1_defence.asm Mon Mar 25 10:56:34 2024
+AVRASM ver. 2.1.42  C:\Users\s20di\Videos\workspace\6sem\ey\Lab_work_1_AVR_DO\lab1_d2\lab1_defence.asm Mon Mar 25 21:17:06 2024
 
 
 EQU  SIGNATURE_000 0000001e
@@ -608,9 +608,29 @@ DEF  tempL        r16
 DEF  tempH        r17
 DEF  temp         r18
 DEF  Counter      r19
-CSEG InitStack    00000029
-CSEG Init         0000002d
+DEF  Delay1       r20
+DEF  Delay2       r21
+DEF  Delay3       r22
+DEF  Delay4       r23
+EQU  Val_del1     000000ab
+EQU  Val_del2     0000001a
+EQU  Val_del3     000000f2
+EQU  Val_del4     0000009e
+CSEG Init         00000029
+CSEG Init_A       0000002d
+CSEG Init_B       00000031
 CSEG MainLoop     00000036
 CSEG CheckCounter 0000003c
-CSEG Delay        00000041
-CSEG delay_loop   00000042
+CSEG Read         0000003c
+CSEG TABLE        00000058
+CSEG Write_A      00000040
+CSEG delay_1      00000041
+CSEG delay_DK     00000050
+CSEG Key_end      00000042
+CSEG delay_2      00000044
+CSEG End_prog     00000045
+CSEG Delay        00000046
+CSEG delay_loop   0000004a
+CSEG End_delay    0000004f
+CSEG cycle        00000053
+CSEG End_delay_DK 00000057
